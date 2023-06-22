@@ -1,3 +1,2 @@
-c 1 0 part0
-c 0 0 part1
-c 1 0 part2
+p 1 5 part0
+p 0 5 part1
